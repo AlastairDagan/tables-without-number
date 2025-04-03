@@ -1,0 +1,18 @@
+.outerDiv {
+    font-weight: bold;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.innerDiv {
+    font-size: 1.5rem;
+    font-weight: normal;
+    text-transform: none;
+}
+
+.test {
+    padding: 1em;
+    font-size: 96px;
+    font-weight: bold;
+}
+
